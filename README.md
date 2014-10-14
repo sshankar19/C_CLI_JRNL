@@ -1,0 +1,1 @@
+So this is basically my implementation of JRNL (just google it) but in C. That's what it's going to be at first, but I plan to keep adding crap on. It's also a way of me shedding rust from C. haha. 'Rust' from 'C'.
